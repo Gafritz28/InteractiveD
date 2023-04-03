@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Coffee</h1>
+<p>This website is dedicated to one of my very faviorte things on this planet: Coffee</p>
+
+<p>
+  here is a quote from David Letterman that gives some presective on coffee,
+  <q cite="https://www.inc.com/geoffrey-james/21-best-quotes-about-coffee.html#:~:text=%22Never%20trust%20anyone%20who%20doesn't%20drink%20coffee.%22&text=%22Our%20culture%20runs%20on%20coffee,often%20tasting%20like%20the%20second.%22&text=%22Science%20may%20never%20come%20up,system%20than%20the%20coffee%20break.%22&text=%22The%20smell%20of%20fresh%2Dmade,of%20the%20world's%20greatest%20inventions.%22">"If it wasn't for the coffee, I'd have no identifiable personality whatsoever."
+</q>
+</p>
+</body>
+</html>
+
+<html>
+<body>
+
+<figure>
+    <figcaption>Listen to coffee shop sounds:</figcaption>
+    <audio
+        controls
+        src="https://soundcloud.com/user-23044900/yt1s-com-rainy-night-and">
+            <a href="https://soundcloud.com/user-23044900/yt1s-com-rainy-night-and">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
+<video
+  controls
+  src="https://www.youtube.com/watch?v=pjJqOgFyCxI"
+  poster="file:///var/folders/43/5b4h953s4nq25fwkccltx15h0000gn/T/TemporaryItems/NSIRD_screencaptureui_SWDnSW/Screen%20Shot%202023-04-03%20at%202.43.43%20PM.png"
+  width="250">
+  Burning coffee questions
+  <a href="https://archive.org/details/BigBuckBunny_124">download it</a>
+  and watch it with your favorite video player!
+</video>
+<details>
+  <summary>Video not loading?</summary>
+  <p>
+   Sorry your site does not support embeded videos search this link and watch the viedo there! https://www.youtube.com/watch?v=pjJqOgFyCxI
+  </p>
+</details>
+
+<p></p>
+<table>
+  <colgroup span="4"></colgroup>
+  <tr>
+    <th>Countries</th>
+    <th>Population</th>
+    <th>how much of the population drinks coffee</th>
+  </tr>
+  <tr>
+    <td>USA</td>
+    <td>309 million</td>
+    <td>74%</td>
+  </tr>
+  <tr>
+    <td>UK</td>
+    <td>67.33 million</td>
+    <td>70%</td>
+  </tr>
+   <tr>
+    <td>Canada</td>
+    <td>38.25 million</td>
+    <td>67%</td>
+  </tr>
+</table>
+
+<iframe
+  title="Wikipedia page for Coffee"
+  src="https://en.wikipedia.org/wiki/Coffee"></iframe>
+  
+<button name="LOVE!!">
+  <svg aria-hidden="true" viewBox="0 0 10 10">
+    <path d="M7 9L5 8 3 9V6L1 4h3l1-3 1 3h3L7 6z" />
+  </svg>
+  I love coffee
+</button>
+
+<p>
+  Frozen coffee <meter min="70" max="200" value="87">350 degrees</meter>.
+</p>
+
+<p>
+  Iced coffee <meter min="70" max="400" value="300">350 degrees</meter>.
+</p>
+
+<p>
+  hot coffee with ice just put in it <meter min="200" max="500" value="350">350 degrees</meter>.
+</p>
+<p>
+  Hot cofee temp. <meter low="69" high="80" max="100" value="84">B</meter> 
+</p>
+
+<h2>Coffee Links</h2>
+<a href="https://www.folgerscoffee.com/coffee/quiz?gclid=Cj0KCQjw8qmhBhClARIsANAtbofNnAX2jOgQ4NYFLMu2ZaDXf8-wAM6XARidB3ifCtXT1n91PDfgL20aAmnuEALw_wcB&gclsrc=aw.ds">folders coffee quiz!</a>
+
+<a href="https://www.drinktrade.com/onboarding/question/1?flow=quiz">drink trade coffee quiz!</a>
+
+<a href="https://www.buzzfeed.com/jasminsuknanan/coffee-knowledge-quiz">Buzzfeed coffee quiz try to get 100%!</a>
+
+<h2>Coffee Types Chart</h2>
+<p>
+<img src="https://i.redd.it/6kwxp6izhl741.jpg" alt="MDN logo" srcset="https://i.redd.it/6kwxp6izhl741.jpg" width="250"/>
+</p>
+
+<div class="shadowbox">
+  <p>the average american spends $1,100 per year on coffee, which breaks down to roughly $92 a month.</p>
+</div>
+
+<h2>Popular coffee places and their start up stories</h2>
+
+<details>
+  <summary>Starbucks story</summary>
+  <p>
+    The story begins in 1971 along the cobblestone streets of Seattle’s historic Pike Place Market. It was here where Starbucks opened its first store, offering fresh-roasted coffee beans, tea and spices from around the world for our customers to take home. Our name was inspired by the classic tale, “Moby-Dick,” evoking the seafaring tradition of the early coffee traders.
+
+Ten years later, a young New Yorker named Howard Schultz would walk through these doors and become captivated with Starbucks coffee from his first sip. 
+  </p>
+</details>
+
+<details>
+  <summary>Dunkin Donuts</summary>
+  <p>
+    Bill Rosenberg opened Open Kettle in 1948, a restaurant selling donuts and coffee in Quincy, Massachusetts (a suburb of Boston), but he changed the name in 1950 to Dunkin' Donuts after discussing with company executives. He conceived the idea for the restaurant after his experiences selling food in factories and at construction sites, where donuts and coffee were the two most popular items. 
+  </p>
+</details>
+
+<details>
+  <summary>Caribou coffee</summary>
+  <p>
+   John and Kim Puckett, opened the doors of the very first Caribou Coffee® with a vision to eradicate impersonal service from the coffeehouse experience. Nearly 30 years later, Caribou Coffee’s purpose of creating day making experiences that spark a chain reaction of good for our team, guests and community fuels our growth.
+  </p>
+</details>
+
+<p>What is your Favorite kind of coffee</p>
+
+<form action="#">
+  <fieldset>
+    <legend>Coffee prefrence?</legend>
+    <input type="checkbox" id="chbx" name="agree" value="Yes!" />
+    <label for="chbx">Dunkin</label>
+        <input type="checkbox" id="chbx" name="agree" value="Yes!" />
+    <label for="chbx">Starbs</label>
+        <input type="checkbox" id="chbx" name="agree" value="Yes!" />
+    <label for="chbx">Caribou</label>
+        <input type="checkbox" id="chbx" name="agree" value="Yes!" />
+    <label for="chbx">McCafe</label>
+        <input type="checkbox" id="chbx" name="agree" value="Yes!" />
+    <label for="chbx">Scooters</label>
+        <input type="checkbox" id="chbx" name="agree" value="Yes!" />
+    <label for="chbx">Other</label>
+  </fieldset>
+</form>
+<table>
+  <caption>
+    Example Caption
+  </caption>
+  <tr>
+    <th>Login</th>
+    <th>Email</th>
+  </tr>
+  <tr>
+    <td>user1</td>
+    <td>user1@sample.com</td>
+  </tr>
+  <tr>
+    <td>user2</td>
+    <td>user2@sample.com</td>
+  </tr>
+</table>
+</body>
+</html>
