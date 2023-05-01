@@ -144,21 +144,20 @@ Ten years later, a young New Yorker named Howard Schultz would walk through thes
   </fieldset>
 </form>
 <table>
-  <caption>
-    Example Caption
-  </caption>
-  <tr>
-    <th>Login</th>
-    <th>Email</th>
-  </tr>
-  <tr>
-    <td>user1</td>
-    <td>user1@sample.com</td>
-  </tr>
-  <tr>
-    <td>user2</td>
-    <td>user2@sample.com</td>
-  </tr>
+  <form action="/action_page.php">
+ <fieldset>
+ 
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email"><br><br>
+  <label for="birthday">Birthday:</label>
+  <input type="date" id="birthday" name="birthday"><br><br>
+  <input type="submit" value="Submit">
+ </fieldset>
+</form>
 </table>
 </body>
 </html>
